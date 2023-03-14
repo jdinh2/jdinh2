@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/jdinh2/ActiveDirectoryLab)
+ - [Responsive Web Design Projects](https://codepen.io/jon-dinh/)
   
 <h2> Certificates </h2> 
 
