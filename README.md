@@ -7,9 +7,10 @@
   
 <h2> Certificates </h2> 
 
- - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/FJ57FHHN7YVL)
-- [Responsive Web Design](https://www.freecodecamp.org/certification/jondinh/responsive-web-design)  
 - [Comptia A+](https://www.credly.com/badges/7ee9babb-2774-436a-b663-0f02e9745d7a/linked_in?t=rzr4vo)  
+- [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/FJ57FHHN7YVL)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/jondinh/responsive-web-design)  
+
 
 
 <h2> 🤳 Connect with me:</h2>
