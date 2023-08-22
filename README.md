@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jon! <br/><a href="https://github.com/jdinh2">Programmer</a>, <a href="https://www.linkedin.com/in/jonathandinh/">Web Developer</a>, and <a href="https://j-dinhdesigns.com/">Web Designer</a> </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/jdinh2/ActiveDirectoryLab)
  - [Responsive Web Design Projects](https://codepen.io/jon-dinh/)
