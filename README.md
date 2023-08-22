@@ -4,7 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/jdinh2/ActiveDirectoryLab)
 - [WordPress Responsive Websites](https://j-dinhdesigns.com/#Projects)
-- [Responsive Web Design Projects](https://codepen.io/jon-dinh/)
+- [HTML/CSS Responsive Websites](https://codepen.io/jon-dinh/)
   
 <h2> Certificates </h2> 
 
