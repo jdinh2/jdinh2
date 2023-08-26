@@ -5,7 +5,16 @@
 - [Active Directory Home Lab](https://github.com/jdinh2/ActiveDirectoryLab)
 - [WordPress Responsive Websites](https://j-dinhdesigns.com/#Projects)
 - [HTML/CSS Responsive Websites](https://codepen.io/jon-dinh/)
-  
+
+<b>osTicket (Help Desk Ticketing System) </b>
+-osTicket: Prerequisites and Installation
+-osTicket: Post-Installation Configuration
+-osTicket: Ticket Lifecycle Examples
+
+<b>Microsoft Azure </b>
+Configuring On-premises Active Directory within Azure VMs
+Network Security Groups (NSGs) and Inspecting Network Protocols
+
 <h2> Certificates </h2> 
 
 - [Comptia A+](https://www.credly.com/badges/7ee9babb-2774-436a-b663-0f02e9745d7a/linked_in?t=rzr4vo)  
