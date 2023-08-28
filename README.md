@@ -14,7 +14,7 @@
 
 <b>Microsoft Azure </b>
 
-- Configuring On-premises Active Directory within Azure VMs
+- [Configuring On-premises Active Directory within Azure VMs](https://github.com/jdinh2/AzureVMBasics)
 - Network Security Groups (NSGs) and Inspecting Network Protocols
 
 <h2> Certificates </h2> 
