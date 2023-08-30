@@ -8,7 +8,7 @@
 
 <b>osTicket (Help Desk Ticketing System) </b>
 
-- osTicket: Prerequisites and Installation
+- [osTicket: Prerequisites and Installation](https://github.com/jdinh2/osTicket-preq/blob/main/README.md)
 - osTicket: Post-Installation Configuration
 - osTicket: Ticket Lifecycle Examples
 
