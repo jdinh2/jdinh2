@@ -10,7 +10,7 @@
 
 - [osTicket: Prerequisites and Installation](https://github.com/jdinh2/osTicket-preq/)
 - [osTicket: Post-Installation Configuration](https://github.com/jdinh2/OsTicket-Post)
-- osTicket: Ticket Lifecycle Examples
+- [osTicket: Ticket Lifecycle Examples](https://github.com/jdinh2/osTicket-Lifecycles)
 
 <b>Microsoft Azure </b>
 
