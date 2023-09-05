@@ -17,7 +17,7 @@
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jdinh2/AzureVMBasics)
 - Network Security Groups (NSGs) and Inspecting Network Protocols
 - SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!
-- 
+  
 
 
 <h2> Certificates </h2> 
