@@ -21,7 +21,7 @@
 - OpenVAS Vulnerability Management Tutorial
   
 <b> Python Projects </b>
-- Pillow Image Editor Tutorial
+- [Pillow Image Editor Tutorial](https://github.com/jdinh2/PillowImageEditorTutorial)
 
 
 <h2> Certificates </h2> 
