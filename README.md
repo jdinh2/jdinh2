@@ -24,6 +24,9 @@
 <b> Python Projects </b>
 - [Pillow Image Editor Tutorial](https://github.com/jdinh2/PillowImageEditorTutorial)
 
+- <b> Cybersecurity </b>
+- [Botium Toys: Security Audit](https://github.com/jdinh2/BotiumToysSecurityAudit)
+
 
 <h2> Certificates </h2> 
 
