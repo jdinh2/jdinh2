@@ -18,14 +18,15 @@
 - [Building Intuition for DNS](https://github.com/jdinh2/DNS-Intuition/)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jdinh2/Network-Security-Groups-and-Inspecting-Network-Protocols)
 - Automating Azure with Ansible 
-- SIEM Tutorial | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!
-- OpenVAS Vulnerability Management Tutorial
+
   
 <b> Python Projects </b>
 - [Pillow Image Editor Tutorial](https://github.com/jdinh2/PillowImageEditorTutorial)
 
 <b> Cybersecurity </b>
 - [Botium Toys: Security Audit](https://github.com/jdinh2/BotiumToysSecurityAudit)
+- SIEM Tutorial | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!
+- OpenVAS Vulnerability Management Tutorial
 
 
 <h2> Certificates </h2> 
