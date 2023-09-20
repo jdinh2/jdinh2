@@ -28,6 +28,9 @@
 - [NIST Cybersecurity Framework Incident Analysis](https://github.com/jdinh2/NIST-CSF-Incident-Analysis/)
 - SIEM Tutorial | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!
 - OpenVAS Vulnerability Management Tutorial
+ 
+<b> Linux Projects 🐧 </b>
+- [File Permissions in Linux](https://github.com/jdinh2/File-Permissions-in-Linux/)
 
 
 <h2> Certificates </h2> 
