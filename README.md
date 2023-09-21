@@ -25,12 +25,14 @@
 
 <b> Cybersecurity </b>
 - [Botium Toys: Security Audit](https://github.com/jdinh2/BotiumToysSecurityAudit)
-- [NIST Cybersecurity Framework Incident Analysis](https://github.com/jdinh2/NIST-CSF-Incident-Analysis/)
+- [NIST Cybersecurity Framework Incident Analysis](https://github.com/jdinh2/NIST-CSF-Incident-Analysis/)\
+- [SQL Security Filter](https://github.com/jdinh2/SQL-Security-Filters)
 - SIEM Tutorial | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS!
 - OpenVAS Vulnerability Management Tutorial
  
 <b> Linux Projects 🐧 </b>
 - [File Permissions in Linux](https://github.com/jdinh2/File-Permissions-in-Linux/)
+
 
 
 <h2> Certificates </h2> 
