@@ -16,7 +16,7 @@
 
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jdinh2/AzureVMBasics)
 - [Building Intuition for DNS](https://github.com/jdinh2/DNS-Intuition/)
-- [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/jdinh2/Network-Security-Groups-and-Inspecting-Network-Protocols)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/jdinh2/Network-Security-Groups-and-Inspecting-Network-Protocols-with-Wireshark)
 - [Automating Azure with Ansible](https://github.com/jdinh2/Ansible-Azure-vm-deployment)
 
   
